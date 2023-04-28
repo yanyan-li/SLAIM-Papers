@@ -1,4 +1,11 @@
 # SLAIM-Papers 
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/NeRF-4b44ce.svg"></a>
+  <a href=""><img src="https://img.shields.io/badge/SLAM-red.svg"></a>
+  <a href=""><img src="https://img.shields.io/badge/Representation-Implicit-green.svg"></a>
+  <a href=""><img src="https://img.shields.io/badge/Representation-Explicit-green.svg"></a>
+</p>
+  
 
 We list interesting Simultaneous Tracking and Implicit Mapping (SLAIM) Papers in this repository.
 
