@@ -11,9 +11,12 @@ We list interesting Simultaneous Tracking and Implicit Mapping (SLAIM) Papers in
 
 
 ### From Point Clouds to Implicit Representation 
-Point-NeRF: Point-based Neural Radiance Fields (CVPR 2022 Oral star_struck)Point-NeRF: Point-based Neural Radiance Fields (CVPR 2022 Oral)
+Point-NeRF: Point-based Neural Radiance Fields (CVPR 2022 Oral star_struck)Point-NeRF: Point-based Neural Radiance Fields 
+
 NPBG:Neural Point-Based Graphics
+
 NPBG++: NPBG++: Accelerating Neural Point-Based Graphics 
+
 DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors
 
 ### From Implicit Representation to Explicit
