@@ -11,6 +11,9 @@ We list interesting Simultaneous Tracking and Implicit Mapping (SLAIM) Papers in
 
 
 ### From Point Clouds to Implicit Representation 
+
+Points2Surf:Points2Surf: Learning Implicit Surfaces from Point Cloud Patches.  (global and local functions are propsoed to estimate signed distance function. @ECCV20)
+
 Point-NeRF: Point-based Neural Radiance Fields 
 
 NPBG:Neural Point-Based Graphics
